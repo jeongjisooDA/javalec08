@@ -1,0 +1,14 @@
+
+public class Helloworld {
+
+	public static void main(String[] args){
+		System.out.print("Hello World");
+	}
+
+
+	public static void nain(String[] args) {
+		System.out.println();
+		
+	}
+
+}
