@@ -70,10 +70,10 @@ public class MethodEx2 {
 		printAddAllDoubleParam("정지수",1,2,3,4,5,6,10);
 		
 		
-		int[] a = {1,2,3,4,5};
-		int[] b = sliceArray(a,2);
-		System.out.println();
-		System.out.println(Arrays.toString(b));
+//		int[] a = {1,2,3,4,5};
+//		int[] b = sliceArray(a,2);
+//		System.out.println();
+//		System.out.println(Arrays.toString(b));
 		
 	}
 	
