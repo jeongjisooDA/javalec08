@@ -25,7 +25,5 @@ public class ComputerApp {
 		
 		//video1.deGeforce
 		
-		
-		
 	}	
 }
